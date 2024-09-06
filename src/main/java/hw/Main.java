@@ -10,5 +10,6 @@ public class Main {
     System.out.println(instance.getMessage());
     System.out.println(instance.getYear());
     System.out.println("bye for now");
+    System.out.println(Arrays.asList());
   }
 }
